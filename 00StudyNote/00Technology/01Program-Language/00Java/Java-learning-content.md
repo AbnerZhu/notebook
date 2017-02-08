@@ -1,0 +1,86 @@
+#### Java 学习提纲
+
+- Java 入门
+  - Java 概述
+  - Java 代码初运行
+  - 环境搭建及 Java 编译过程
+  - 基本数据类型
+  - 变量和常量
+  - 修饰符与运算符
+  - 初始面向对象
+  - 对象和类
+- Java 基础
+  - 程序流程控制
+    - 条件判断
+    - 循环结构
+    - 跳转
+    - 其他分支
+  - 认识字符串
+  - 必须了解的常用类
+    - String
+    - Character
+    - Number
+    - StringBuffer
+    - Date
+  - 数组
+  - 方法
+  - 流、文件及 IO 初步
+  - 异常与异常处理
+  - 样例， Hadoop 中的一些 Java 应用
+- 深入面向对象
+  - 面向对象的 『世界观』
+  - 封装
+  - 继承
+  - 覆盖与重载
+  - 多态
+  - 抽象类
+  - 接口
+  - 包(package)
+  - 样例， Hadoop 用户逻辑使用及实现方法
+- 数据结构、集合与泛型
+  - 常见数据结构
+    - 枚举(Enumeration)
+    - 向量(Vector)
+    - 栈(Stack)
+    - 字典(Dictionary)
+    - 哈希表(Hashtable)
+    - 属性(Properties)
+    - 位集合(BitSet)
+  - 集合框架及使用
+    - Map
+    - Set
+    - List
+    - Queue
+    - ...
+  - Java 泛型
+  - 集合与泛型在实际项目中的使用样例
+- 序列化与 Java IO
+  - Java 序列化
+  - Java IO 基本架构
+  - Java IO 磁盘 IO
+  - Java IO Socket
+  - Java IO NIO
+  - 样例， 分布式应用服务进程中对 Socket、 序列化的使用
+- 多线程与并发
+  - 线程创建与控制
+  - 线程同步互斥与通信
+  - 并发包
+  - 样例， 网络服务器多线程服务模式的实现方法
+- Java 反射
+  - 介绍反射
+  - Class 类
+  - 反射 API
+  - 反射机制的使用及示例
+  - 样例： Hadoop 中的反射应用， 进程之间的对象信息传递
+- JVM 架构及重要功能
+  - JVM 的基本架构
+  - 类加载器
+  - 运行数据区及执行引擎
+  - Java GC
+  - Java 工具介绍及应用
+  - 实例， 用 Java 工具观测进程状态
+- Java 项目管理
+  - Maven 基本框架及使用方法
+  - Maven 操作及演示
+  - 样例， 开源项目中的 Maven 使用
+- 最有影响力的 Java 开源项目 —— Hadoop

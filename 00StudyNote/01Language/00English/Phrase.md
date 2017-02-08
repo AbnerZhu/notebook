@@ -1,0 +1,4 @@
+- There is More to Love. 有更多值得爱的
+- there is much more to: 没有看起来那么简单
+- There is more to it. : 事情没那么简单
+- But there is more to it than this.: 不但如此
